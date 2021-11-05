@@ -33,7 +33,7 @@ Hi there, my name is Natalie Scott and I am full stack developer with a backgrou
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nascott94"
 
- alt="nascott94's github stats"/>
+/>
 </p>
 
 
