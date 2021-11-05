@@ -1,7 +1,7 @@
 ### Welcome, my name is Natalie ✨
 
 <div align="center">
-  <img width="100%" src="assets/github-profile.jpg" alt="cover" />
+  <img width="50%" src="assets/github-profile.jpg" alt="cover" />
 <!-- </div>
 
 <table>
