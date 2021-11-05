@@ -36,6 +36,7 @@ Hi there, my name is Natalie Scott and I am full stack developer with a backgrou
  alt="nascott94's github stats"/>
 </p>
 
+
 <h3>Follow me:</h3>
 <div  align="center">
   <a href="https://www.linkedin.com" target="_blank">
