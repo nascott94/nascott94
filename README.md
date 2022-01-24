@@ -1,7 +1,7 @@
 ### Welcome, my name is Natalie ✨
 
 <div align="center">
-  <img width="100%" height="400px" src="assets/Green Abstract (1).png.jpg" alt="cover" />
+  <img width="100%" height="400px" src="assets/Green Abstract (1).png" alt="cover" />
 <!-- </div>
 
 <table>
