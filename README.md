@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <video src='assets/welcome.mp4' width=180/>
+
 <!-- </div>
 
 <table>
