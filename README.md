@@ -1,4 +1,4 @@
-### Welcome, my name is Natalie ✨
+
 
 <div align="center">
   <img width="100%" height="400px" src="assets/Green Abstract (1).png" alt="cover" />
@@ -24,9 +24,7 @@
 </table>
 </div> -->
 
-## About me
 
-Hi there, my name is Natalie Scott and I am full stack developer with a background in architecture and design.
 
 ## My Github stats
 
