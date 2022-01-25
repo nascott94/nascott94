@@ -1,8 +1,6 @@
-
-
 <div align="center">
-    <video src= "assets/welcome.mp4" type="video/mp4" height="240"/>
-
+  <video src= "assets/welcome.mp4" type="video/mp4" height="240">
+</video>
 
 <!-- </div>
 
@@ -14,7 +12,7 @@
       </td>
     </tr>
   </thead>
-  
+
   <tbody>
     <tr>
       <td align="center">
@@ -22,18 +20,15 @@
       </td>
     </tr>
   </tbody>
-  
+
 </table>
 </div> -->
-
-
 
 ## My Github stats
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nascott94&show_icons=true&theme=radical"/>
 </p>
-
 
 <h3>Follow me:</h3>
 <div  align="center">
