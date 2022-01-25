@@ -1,8 +1,8 @@
 
 
 <div align="center">
-    <video src= "assets/welcome.mp4" type="video/mp4" height="240">
-</video>
+    <video src= "assets/welcome.mp4" type="video/mp4" height="240"/>
+
 
 <!-- </div>
 
