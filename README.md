@@ -1,8 +1,7 @@
 
 
 <div align="center">
-  <video width="320" height="240" controls>
-  <source src="welcome.mp4" type="video/mp4">
+    <video src= "assets/welcome.mp4" type="video/mp4" height="240">
 </video>
 
 <!-- </div>
