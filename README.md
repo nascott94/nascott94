@@ -1,7 +1,8 @@
 
 
 <div align="center">
-  <img width="100%" height="400px" src="assets/Green Abstract (1).png" alt="cover" />
+  <img width="100%" height="400px" src="assets/" alt="cover" />
+  <video src='assets/welcome.mp4' width=180/>
 <!-- </div>
 
 <table>
